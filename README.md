@@ -9,7 +9,7 @@
 ## About Me
 I am a sophomore student studying Computer Engineering at Middle East Technical University, with a CGPA
 of 3.25. Throughout my academic journey, I have actively pursued various fields, including Computer Vision,
-Backend, and Frontend development. This semester, I successfully completed a project on designing an AIpowered Automatic Recruitment System, focusing on backend development using multi-layered DotNet 6.0.
+Backend, and Frontend development. This semester, I successfully completed a project on designing an Automatic Recruitment System, focusing on backend development using multi-layered DotNet 6.0.
 You can find this project, along with others, on my GitHub repository. My experience extends to utilizing Donet,
 Python, and Java for backend development, HTML, CSS, JavaScript, and Angular for frontend development,
 Selenium and Postman for testing, and Python for computer vision projects. Additionally, I gained valuable
