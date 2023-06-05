@@ -7,7 +7,7 @@
 <font color="red">Any fool can write code that a computer can understand. **Good programmers** write code that humans can understand. </font>
 
 ## About Me
-I am a sophomore student studying Computer Engineering at Middle East Technical University, with a CGPA
+I am a senior student studying Computer Engineering at Middle East Technical University, with a CGPA
 of 3.25. Throughout my academic journey, I have actively pursued various fields, including Computer Vision,
 Backend, and Frontend development. This semester, I successfully completed a project on designing an Automatic Recruitment System, focusing on backend development using multi-layered DotNet 6.0.
 You can find this project, along with others, on my GitHub repository. My experience extends to utilizing Donet,
