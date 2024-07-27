@@ -2,19 +2,16 @@
 
 ### Hi there, I'm Fatih. 👋
 
-## Senior Computer Engineering Student
+## Computer Engineer
 
 <font color="red">Any fool can write code that a computer can understand. **Good programmers** write code that humans can understand. </font>
 
 ## About Me
-I am a senior student studying Computer Engineering at Middle East Technical University, with a CGPA
-of 3.25. Throughout my academic journey, I have actively pursued various fields, including Computer Vision,
-Backend, Automatic Testing and Frontend development. This semester, I successfully completed my graduation project on designing an Automatic Recruitment System, focusing on backend development using multi-layered DotNet 6.0.
-You can find this project, along with others, on my GitHub repository. My experience extends to utilizing Donet,
-Python, and Java for backend development, HTML, CSS, JavaScript, and Angular for frontend development,
-Selenium and Postman for testing, and Python for computer vision projects. Additionally, I gained valuable
-experience as a Test Automation Engineer Intern at Softtech, where I conducted Selenium-based testing and
-API testing using Postman.
+I am a recent graduate with a Bachelor's in Computer Engineering from Middle East Technical University, achieving a CGPA of 3.05. My specialization lies in backend development, with strong proficiency in Python (Flask), Java, .NET (NLayered/MVC), C, C#, and C++. For my graduation project, I developed an AI-powered Automatic Recruitment System, which is available on GitHub.
+
+During my internship at Softtech, I honed my backend testing skills, particularly in Selenium and API testing. Additionally, I am proficient in HTML, CSS, JavaScript, and Angular, with experience in React.js and React Native. I have worked on projects involving Computer Vision and Image Processing using Python.
+
+My second internship involved delving into data analytics, where I mastered tools such as Tableau, BigQuery, and R. I also completed the Google Data Analytics course (250 hours) on Coursera, further enhancing my skills in this domain.
 
 ### Contact me
 
